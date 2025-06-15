@@ -1,0 +1,14 @@
+Clerk
+Uploadthing
+shadcn
+tailwindcss
+NextJs
+bg.ibeliek.com
+stripe
+
+Prisma 
+Mysql using Docker
+
+
+
+
